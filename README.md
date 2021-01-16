@@ -1,6 +1,5 @@
 # JetBrains - BlockChain Project
-JetBrains Academy Java Developer Project
-[BlockChain Project](https://hyperskill.org/projects/50?track=1)
+[JetBrains Academy Java Developer Project](https://hyperskill.org/projects/50?track=1)
 
 ## Description
 In this project, you will try yourself at making a microcosm where virtual miners earn cryptocurrency and exchange messages and transactions using blockchain. As difficult as the project might be, it is bound to pay off: not in cryptocurrency, but in knowledge and skills.
